@@ -7,7 +7,7 @@ Currently I'm helping out on a couple of projects in this space, among them are 
 
 From 2012 to 2020 I also was a contributor to [Gentoo Linux](https://gentoo.org) and packaged a wide range of software. This allowed me to gain lot of knowledge on building software. Therefore, a lot of my contributions to other projects are helping out with ensuring quality and security or providing release engineering best practices.
 
-You can reach me via Kubernetes' Slack or Libera Chat. My nick on both services is mrueg.
+You can reach me via Kubernetes' Slack. My nick is the same as here.
 
 #### Sponsoring
 
