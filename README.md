@@ -22,7 +22,11 @@ I'm Manuel, a Berlin-based engineer who has been contributing to Open Source for
 - [netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter): a Prometheus exporter for the Netcup Server Control Panel
 - [external-dns-netcup-webhook](https://github.com/mrueg/external-dns-netcup-webhook): an ExternalDNS webhook provider to manage Netcup DNS records
 
-Away from Kubernetes I tinker with Home Assistant and maintain a few add-ons, such as [addon-teddycloud](https://github.com/mrueg/addon-teddycloud).
+Away from Kubernetes I tinker with Home Assistant and maintain a few add-ons and integrations:
+
+- [addon-teddycloud](https://github.com/mrueg/addon-teddycloud): run TeddyCloud alongside Home Assistant
+- [home-assistant-voebb](https://github.com/mrueg/home-assistant-voebb): show media you've borrowed from Berlin's public libraries (VÖBB)
+- [home-assistant-techem](https://github.com/mrueg/home-assistant-techem): pull water and heating consumption data from the Techem tenant portal
 
 From 2012 to 2020 I was a [Gentoo Linux](https://gentoo.org) developer and packaged a wide range of software. That taught me a lot about how software gets built and shipped, so many of my contributions elsewhere focus on quality, security and release engineering.
 
